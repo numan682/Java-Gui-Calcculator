@@ -6,7 +6,7 @@ A simple Java-based GUI calculator built using **Java Swing**. This calculator p
 
 ## 📸 Preview
 
-![calculator screenshot](https://via.placeholder.com/300x400?text=GUI+Calculator+By+Numan)
+![calculator screenshot](https://github.com/numan682/Java-Gui-Calcculator/blob/main/java-gui-calc.png?raw=true)
 
 ---
 
@@ -46,8 +46,8 @@ This project uses Java Swing for GUI rendering. Below is a simple breakdown:
 2. ✅ **Install VS Code Extensions**:
    - "Extension Pack for Java" by Microsoft
 3. ✅ **Create File**:
-   - Save the code in a file named `ClickMathsBox.java`
+   - Save the code in a file named `calc.java`
 4. ✅ **Open Terminal in VS Code** and run:
    ```bash
-   javac ClickMathsBox.java
-   java ClickMathsBox
+   javac calc.java
+   java calc
